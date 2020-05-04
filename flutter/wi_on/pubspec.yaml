@@ -1,0 +1,23 @@
+name: wi_on
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  localstorage: 3.0.1+4
+  http: 0.12.0+2
+  google_fonts: 0.2.0
+  qrscan: 0.2.17
+  permission_handler: 4.0.0
+  shake: 0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true

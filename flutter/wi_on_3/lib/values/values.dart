@@ -1,0 +1,1 @@
+export 'package:wi_on_3/values/strings.dart';
